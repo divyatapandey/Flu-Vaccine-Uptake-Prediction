@@ -6,7 +6,7 @@ A multilabel classification machine learning project to predict whether individu
 
 ## 📌 Problem Description
 
-Your goal is to predict how likely individuals are to receive their **xyz** and **seasonal flu** vaccines. Specifically, you'll be predicting **two probabilities**:
+The goal is to predict how likely individuals are to receive their **xyz** and **seasonal flu** vaccines. Specifically, you'll be predicting **two probabilities**:
 - One for `xyz_vaccine`
 - One for `seasonal_vaccine`
 
